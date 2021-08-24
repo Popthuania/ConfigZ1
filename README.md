@@ -13,9 +13,9 @@
 
 
 
-[![ConfigZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfigZ&show_icons=true&theme=radical)
+[![ConfigZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfigZ1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfigZ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfigZ1)
 
 Have a nice day 👋
 
