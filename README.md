@@ -3,13 +3,13 @@
 
 👋Welcome to my profile!
 
--I am currently learning c++
+-I am currently learning c++ 🧠
 
--Currently in 8th grade
+-Currently in 8th grade 🏫
 
--Main future goal: have a good paying job and a happy life
+-Main future goal: have a good paying job and a happy life 😎
 
--I live in Lithuania
+-I live in Lithuania 🇱🇹
 
 
 
