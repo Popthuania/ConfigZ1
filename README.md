@@ -1,7 +1,7 @@
 # Hey, im ConfigZ
 
 
-##👋Welcome to my profile!
+👋Welcome to my profile!
 
 -I am currently learning c++
 
@@ -17,5 +17,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfigZ)
 
-#Have a nice day 👋
+Have a nice day 👋
 
