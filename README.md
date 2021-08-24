@@ -13,9 +13,13 @@
 
 
 
-[![ConfigZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfigZ1&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfigZ1&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfigZ1)
+![GitHub metrics](https://metrics.lecoq.io/ConfigZ1)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ConfigZ1)  
+
+![Profile views](https://gpvc.arturio.dev/ConfigZ1)
 
 Have a nice day 👋
 
