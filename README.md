@@ -3,7 +3,7 @@
 
 👋Welcome to my profile!
 
--I am currently learning c++ 🧠
+-I am currently learning java 🧠
 
 -Currently in 8th grade 🏫
 
