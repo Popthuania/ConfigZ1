@@ -5,8 +5,6 @@
 
 -I am currently learning java 🧠
 
--Currently in 8th grade 🏫
-
 -Main future goal: have a good paying job and a happy life 😎
 
 -I live in Lithuania 🇱🇹
