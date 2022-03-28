@@ -3,7 +3,7 @@
 
 👋Welcome to my profile!
 
--I am currently learning GOlang🧠
+-I am currently learning C🧠
 
 -Main future goal: have a good paying job and a happy life 😎
 
